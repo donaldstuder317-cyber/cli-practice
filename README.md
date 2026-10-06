@@ -5,27 +5,27 @@
 *Look through these now and then use them to test yourself after doing the assignment*
 
 * What is the command line?
-
+    -the command line is where commands are executed in the terminal
 * How do you open it on your computer?
-
+    -By pressing "Ctrl + `"
 * How can you navigate into a particular file directory?
-    - Where will `cd .` navigate you to?
-    - Where will `cd ..` navigate you to?
-    - Where will `cd ~` navigate you to?
-    - Where will `cd /` navigate you to?
+    - Where will `cd .` navigate you to? (A: Change directory to the current folder)
+    - Where will `cd ..` navigate you to? (A: Change directory to the previous folder)
+    - Where will `cd ~` navigate you to? (A: Change directory to the Home folder)
+    - Where will `cd /` navigate you to? (A: Change directory to the Root folder)
 
 
-* How can you display the name of the directory you are currently in?
+* How can you display the name of the directory you are currently in? (A: the command "pwd")
 
-* How can you display the contents of the directory you are currently in?
+* How can you display the contents of the directory you are currently in? (A: the command "ls")
 
-* How can you create a new directory?
+* How can you create a new directory? (A: the command "mkdir")
 
-* How can you create a new file?
+* How can you create a new file? (A: the command "touch")
 
-* How can you destroy a directory or file?
+* How can you destroy a directory or file? (A: the command "rm")
 
-* How can you rename a directory or file?
+* How can you rename a directory or file? (the edit file mode with command "vi" followed by "i" for insert and then "wq" for save and quit)
 
 ## Assignment:
 
